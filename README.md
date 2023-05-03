@@ -1,1 +1,1 @@
-# CLI-calculator
+Command-line calculator for TS features test.
