@@ -1,1 +1,1 @@
-Command-line calculator for TS features test.
+Command-line calculator with TS features.
